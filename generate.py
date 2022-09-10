@@ -2,7 +2,7 @@ import pickle
 import argparse
 import numpy as np
 
-"PLEASE READ README FILE"
+#PLEASE READ README FILE
 
 def get_args():
     """
