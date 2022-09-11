@@ -282,7 +282,7 @@ def save_model(model_dict, save_path):
 
 
 def main():
-    prefix_len = 3 #  В тз не указанно какого типа эта модель, поэтому я добавил этот параметр.
+    prefix_len = 3 #  В тз не указанно какого типа эта модель (2-грамм, 3-грамм и т.п.), поэтому я добавил этот параметр.
     fake_word = '<s>'
     join_symbol = '<>'
     model_name = 'model'
